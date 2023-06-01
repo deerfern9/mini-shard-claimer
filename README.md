@@ -1,6 +1,6 @@
 # mini-shard-claimer
 
-Before starting the soft, please set the requirements and fill in private;proxy.txt. The data in private;proxy.txt should look like private key;proxy(login:pass@ip:port)
+Before starting the soft, please install all of the required modules using "requirements.txt" or manully. Write data about private keys and proxies to file "private;proxy.txt". The data in private;proxy.txt should look like private key;proxy(login:pass@ip:port)
 
 If the transaction was successful, you can find its hash in hashes.txt
 
