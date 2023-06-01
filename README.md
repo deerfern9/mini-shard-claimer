@@ -5,3 +5,6 @@ Before starting the soft, please install all of the required modules using "requ
 If the transaction was successful, you can find its hash in hashes.txt
 
 In case there are not enough funds in the wallet, or some error occurred, ERRORS.txt will be created, in which you will find the wallet, address, proxy, and the error that occurred when sending the transaction
+
+My telegram: @deer_fern
+My telegram channel: https://t.me/FarmerFrog
